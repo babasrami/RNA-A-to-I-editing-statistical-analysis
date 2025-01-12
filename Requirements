@@ -1,11 +1,11 @@
-##The analysis code utilizes the following Python libraries and tools ##
+The analysis code utilizes the following Python libraries and tools:
 
-Pandas: Used for data manipulation and reading TSV files.
+- Pandas: Used for data manipulation and reading TSV files.
 
-NumPy: For numerical operations and data handling.
+- NumPy: For numerical operations and data handling.
 
-SciPy (scipy.stats): Specifically for statistical tests, such as the t-test.
+- SciPy (scipy.stats): Specifically for statistical tests, such as the t-test.
 
-Matplotlib.pyplot: For data visualization, creating bar plots.
+- Matplotlib.pyplot: For data visualization, creating bar plots.
 
-Google Colab Files (google.colab.files): To upload data files within Google Colab.
+- Google Colab Files (google.colab.files): To upload data files within Google Colab.
