@@ -1,5 +1,7 @@
 # RNA A-to-I Editing Statistical Analysis
 
+**Notice**: This code is shared for educational and demonstration purposes only. No permission is granted to use, modify, reproduce, or distribute this code or any part of it without explicit prior written consent from the author. Please refer to the License section for further details.
+
 ## Table of Contents
 
 - [Description](#description)
@@ -60,4 +62,13 @@ pip install pandas numpy scipy matplotlib
 
 ## License
 
-MIT License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+If you want more control, you can write a custom license that explicitly states your terms. For example:
+
+**Custom License Template:**
+```plaintext
+Copyright (c) [2025] [Rami BABAS]. All rights reserved.
+
+This code is part of a research project and is provided for academic and educational purposes. No permission is granted to use, modify, reproduce, or distribute this code or any derivatives without explicit prior written consent from the author.
+```
